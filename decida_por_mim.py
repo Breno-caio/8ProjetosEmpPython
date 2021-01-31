@@ -1,4 +1,4 @@
-# Projeto 5 - Decida por mim
+# Projeto 7 - Decida por mim
 # Faça uma pergunta para o programa e ele terá que te dar uma resposta
 import random
 import PySimpleGUI as sg
