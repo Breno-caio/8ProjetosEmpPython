@@ -1,4 +1,4 @@
-# Projeto 7 - Jogo de Aventura
+# Projeto 5 - Jogo de Aventura
 # Um jogo de decisões onde eu terei que criar varios finais diferentes baseados nas respostas que forem dadas
 
 # Eu quero chegar a finais diferentes na minha historia, de acordo com as respostas que eu passe para o programa
